@@ -17,3 +17,8 @@
   margin: 1rem;
   cursor: move;
 }
+
+.draggable.dragging {
+  opacity: 0.5;
+  background: purple;
+}
